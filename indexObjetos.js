@@ -73,7 +73,7 @@ describe('Ejercicios Objetos', function(){
       it('Cuando digitamos: Mily, 23, viajar', function(){
       assert.equal("Hola soy Mily tengo 23 años y me gusta viajar", persona.saludar());
     });
-      it('Cuando digitamos: Mily, 23, viajar', function(){
+      it('Cuando digitamos: Edwin, 35, ayudar a los demas', function(){
       assert.equal("Hola soy Edwin tengo 35 años y me gusta ayudar a los demas", persona2.saludar());
     });
   });
